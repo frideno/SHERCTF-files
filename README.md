@@ -1,7 +1,7 @@
 # Tetris
 
 ## Category:
-Pwn (kind of)
+Reversing (although reversing is not the only way to solve)
 ## Level:
 Medium
 ## Story:
