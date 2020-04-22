@@ -1,9 +1,7 @@
 # Tetris
 
 ## Category:
-Reversing (although reversing is not the only way to solve)
-## Level:
-Medium
+Reversing / Misc (reversing it is not the only way to solve)
 ## Story:
 i got this Tetris game...figure out how it is built to get the flag :)
 
